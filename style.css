@@ -1,0 +1,20 @@
+.board {
+    width: 200px;
+    height: 350px;
+    background: rgb(252, 252, 117);
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .cell {
+    width: 30px;
+    height: 30px;
+    background: rgb(51, 227, 233);
+    margin: 3px;
+  }
+  .color {
+    width: 30px;
+    height: 30px;
+    background: rgb(51, 233, 106);
+    margin: 3px;
+  }
+  
